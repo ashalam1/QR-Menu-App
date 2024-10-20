@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- Black background circle with yellow border -->
+  <circle cx="150" cy="150" r="140" fill="black" stroke="#FFD700" stroke-width="8" />
+  
+  <!-- Decorative elements -->
+  <circle cx="150" cy="150" r="120" fill="none" stroke="#FFD700" stroke-width="2" />
+  
+  <!-- Fork -->
+  <path d="M120 90 L120 210 M110 90 L110 130 M130 90 L130 130 M110 130 L130 130" 
+        stroke="#FFD700" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  <!-- Knife -->
+  <path d="M170 90 L170 210 M160 90 C160 90 180 90 180 130" 
+        stroke="#FFD700" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  <!-- Text -->
+  <text x="150" y="250" font-family="Arial" font-size="24" fill="#FFD700" text-anchor="middle">BISTRO</text>
+  
+  <!-- Decorative stars -->
+  <path d="M150 40 L155 50 L165 50 L157 58 L160 68 L150 62 L140 68 L143 58 L135 50 L145 50 Z" 
+        fill="#FFD700" />
+</svg>
